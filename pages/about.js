@@ -19,7 +19,7 @@ const About = () => {
         <div className="a-right">
             <div className="a-title">About Me</div>
             <p className="a-sub">
-            I special in REACT.js, NEXT.js, Node.js, Firebase, MongoDB, THREE.js, socket.io, Adobe AD, Figma, HTML, CSS, JavaScript,Python, TypeScript.
+            I specialize in REACT.js, NEXT.js, Node.js, Firebase, MongoDB, THREE.js, socket.io, Adobe AD, Figma, HTML, CSS, JavaScript,Python, TypeScript.
             </p>
             <p className="a-desc">
             I design and develop services for clients of all sizes, specializing in creating optimized, stylish and modern web-applications, websites, web services and online stores.
