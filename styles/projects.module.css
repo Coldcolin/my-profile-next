@@ -1,0 +1,50 @@
+.pl{
+    padding: 50px 100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    min-height: calc(97vh - 134px);
+}
+
+.plTexts{
+    width: 65%;
+}
+
+.plTitle{
+    font-size: 50px;
+    font-weight: 600;
+}
+
+.plDesc{
+    margin: 20px 0px;
+}
+
+.plList{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+@media screen and (max-width: 480px){
+    .pl{
+        padding: 10px;
+    }
+
+    .plTexts{
+        width: 100%;
+    }
+
+    .plDesc{
+        display: none;
+    }
+
+    .plTitle{
+        font-size: 30px;
+        /* width: 50%; */
+    }
+    .plList{
+        width: 90%;
+    }
+}
