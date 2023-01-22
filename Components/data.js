@@ -5,7 +5,7 @@ export const products = [
     {
         id: 1,
         img: "/onevoteapp.png",
-        link: "https://onevoteapp.herokuapp.com"
+        link: "https://one-vote.vercel.app/"
     },
     { 
         id: 2,
