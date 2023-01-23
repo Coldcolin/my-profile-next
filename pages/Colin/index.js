@@ -15,7 +15,7 @@ const Colin = () => {
         <div className={styles.plTexts}>
             <div className={styles.plTitle}> Create & inspire. It{"'"}s Colin</div>
             <p className={styles.plDesc}>
-            Projects Colin has worked on, click on the Projects to check them out.
+            Some Projects I have worked on, click on the Projects to check them out.
             </p>
         </div>
         <div className={styles.plList}>
