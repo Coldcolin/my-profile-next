@@ -19,10 +19,10 @@ const About = () => {
         <div className="a-right">
             <div className="a-title">About Me</div>
             <p className="a-sub">
-            I specialize in REACT.js, NEXT.js, Node.js, Firebase, MongoDB, THREE.js, socket.io, Adobe AD, Figma, HTML, CSS, JavaScript,Python, TypeScript.
+            I specialize in creating REACT.js, NEXT.js, Node.js, Firebase, MongoDB, THREE.js, socket.io, Adobe AD, Figma, HTML, CSS, JavaScript,Python, TypeScript Projects.
             </p>
             <p className="a-desc">
-            I design and develop services for clients of all sizes, specializing in creating optimized, stylish and modern web-applications, websites, web services and online stores.
+            I design and develop services for clients of all magnitudes, specializing in creating optimized, stylish and modern web-applications, websites, web services and online stores.
             </p>
             <div className='a-award'>
                 {/* <img src="/Logo.jpg" alt="award" className="a-award-img" /> */}
