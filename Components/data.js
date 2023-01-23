@@ -10,7 +10,7 @@ export const products = [
     { 
         id: 2,
         img: "/e-mediapp.png",
-        link: "https://e-medi.herokuapp.com"
+        link: "https://e-medi.vercel.app/"
     },
     {
         id: 3,
